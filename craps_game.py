@@ -1,4 +1,6 @@
 import random
+#This is a test to see if GIT works this way.
+#It in fact seems it does.
 
 def __main__():
     current_roll = roll_craps_dice()
